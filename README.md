@@ -1,4 +1,4 @@
-#  LGMVIP-DataScience
+# Data-Science-Projects
 Hola Amigo🖐Here, are some of my Data Science Prediction models clustered together ! Do check it out 🙏
 
 ## Questions arised in mind ?🤔
