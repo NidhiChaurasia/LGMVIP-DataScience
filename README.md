@@ -12,7 +12,7 @@ Well,I am upto resolve your queries rightaway!Come,on Let's do it 👍
 KNN is basically Supervised machine learning for regression and classification .
 Still Confused 💁‍♀️ ?
 
-In data science K-Nearest Neighbors aka KNN is used to classify a data point based on how it's neighbors are classified .
+In data science K-Nearest Neighbors aka KNN is used to classify a data point based on how it's neighbors are classified.
 
 
 Talking about it's working then let me tell you What it does is it simply learns from data sets and classifies new data points based on similarity or so called Nearest Neighbors.
