@@ -67,13 +67,13 @@ To know more about Health care: Heart attack possibility dataset click this link
 By predicting various features of the Flower like Sepal length and width ,petal length and petal width of the 3 different flowers (Setosa,Virginica,Versicolor) .
 
 
-About data set 
+# About data set 
 
 This particular ML Project is usually referred to as the "Hello World" of Machine Learning.The IRIS flowers dataset contains numeric attributes, and it is perfect for beginners to learn about supervised ML algorithms,mainly how to load and handle data.Also,since this is a small dataset, it can easily fit in memory without requiring special transformations or scaling capabilities.
 
 To know more about IRIS Dataset : Please checkout this link :- http://archive.ics.uci.edu/ml/datasets/Iris
 
-##Stock Market Prediction Using Decision Tree Regression Model in sklearn and Linear Regression Model 
+## Stock Market Prediction Using Decision Tree Regression Model in sklearn and Linear Regression Model 
 
 Dataset used to build this stock price prediction model, is the NSE TATA GLOBAL dataset. This is a dataset of Tata Beverages from Tata Global Beverages Limited, National Stock Exchange of India: https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv 
  
