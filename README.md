@@ -50,12 +50,12 @@ KNN can be used for small dataset because -> Computation of Euclidean distance i
 
 It's Slow trainee -> As it doesn't actually learn from the train data set.Instead,it uses for training data itself for the purpose of classification of unknown data.
 
-## Project Description ->
+# Project Description ->
 
-## Health care: Heart attack possibility
+# Health care: Heart attack possibility
 By Predicting the heart attack using dataset :- 
 
-About data set
+## About data set
 
 This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them. In particular, the Cleveland database is the only one that has been used by ML researchers to
 this date.The "target" field refers to the presence of heart disease in the patient. It is integer valued 0 = no/less chance of heart attack and 1 = more chance of heart attack.
@@ -63,17 +63,17 @@ this date.The "target" field refers to the presence of heart disease in the pati
 To know more about Health care: Heart attack possibility dataset click this link :-  https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
 
-## IRIS Flowers Classification ML Project
+# IRIS Flowers Classification ML Project
 By predicting various features of the Flower like Sepal length and width ,petal length and petal width of the 3 different flowers (Setosa,Virginica,Versicolor) .
 
 
-# About data set 
+## About data set 
 
 This particular ML Project is usually referred to as the "Hello World" of Machine Learning.The IRIS flowers dataset contains numeric attributes, and it is perfect for beginners to learn about supervised ML algorithms,mainly how to load and handle data.Also,since this is a small dataset, it can easily fit in memory without requiring special transformations or scaling capabilities.
 
 To know more about IRIS Dataset : Please checkout this link :- http://archive.ics.uci.edu/ml/datasets/Iris
 
-## Stock Market Prediction Using Decision Tree Regression Model in sklearn and Linear Regression Model 
+# Stock Market Prediction Using Decision Tree Regression Model in sklearn and Linear Regression Model 
 
 Dataset used to build this stock price prediction model, is the NSE TATA GLOBAL dataset. This is a dataset of Tata Beverages from Tata Global Beverages Limited, National Stock Exchange of India: https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv 
  
