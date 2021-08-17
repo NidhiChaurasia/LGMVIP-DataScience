@@ -88,5 +88,31 @@ Generative Adversarial Networks, or GANs, are a deep-learning-based generative m
 
 
 ![github-small](https://machinelearningmastery.com/wp-content/uploads/2019/04/Example-of-the-Generative-Adversarial-Network-Model-Architecture.png)
+
+
+# Fashion_Accessories_prediction_model_using_Convolutional_Neural_Network
+
+I have imported dataset from tf.keras.datasets.fashion_mnist as it was predefined into the keras library.
+
+It gradually Loads the Fashion-MNIST dataset.
+
+This is a dataset of 60,000 28x28 grayscale images of 10 fashion categories, along with a test set of 10,000 images. This dataset can be used as a drop-in replacement for MNIST.
+
+The classes are:
+
+Label	Description
+0	T-shirt/top
+1	Trouser
+2	Pullover
+3	Dress
+4	Coat
+5	Sandal
+6	Shirt
+7	Sneaker
+8	Bag
+9	Ankle boot
+
+
+To know more about the api references and built-in smalldatasets visit this -> https://keras.io/api/datasets/fashion_mnist/
  
  
