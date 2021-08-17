@@ -76,5 +76,17 @@ To know more about IRIS Dataset : Please checkout this link :- http://archive.ic
 # Stock Market Prediction Using Decision Tree Regression Model in sklearn and Linear Regression Model 
 
 Dataset used to build this stock price prediction model, is the NSE TATA GLOBAL dataset. This is a dataset of Tata Beverages from Tata Global Beverages Limited, National Stock Exchange of India: https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv 
+
+# Gan-for-generating-hand-written-digits
+
+
+What is a generative adversarial network ?
+
+-> A generative adversarial network (GAN) is a type of construct in neural network technology that offers a wide range of applications in the world of artificial intelligence.
+Generative Adversarial Networks, or GANs, are a deep-learning-based generative model. More generally, GANs are a model architecture for training a generative model, and it is most common to use deep learning models in this architecture.
+
+
+
+![github-small](https://machinelearningmastery.com/wp-content/uploads/2019/04/Example-of-the-Generative-Adversarial-Network-Model-Architecture.png)
  
  
