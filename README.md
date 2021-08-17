@@ -132,6 +132,7 @@ To know more about the api references and built-in smalldatasets visit this -> h
 This model is a Keras Applications of deep learning models that are made available alongside pre-trained weights. These models can be used for prediction, feature extraction, and fine-tuning.
 
 Weights are downloaded automatically when instantiating a model. They are stored at ~/.keras/models/.
+The list of classes in this model are ['airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck'].
 
 Upon instantiation, the models will be built according to the image data format set in your Keras configuration file at ~/.keras/keras.json. For instance, if you have set image_data_format=channels_last, then any model loaded from this repository will get built according to the TensorFlow data format convention, "Height-Width-Depth".
  
