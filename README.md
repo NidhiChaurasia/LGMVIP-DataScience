@@ -6,6 +6,7 @@ Hola Amigo🖐Here, are some of my Data Science Prediction models clustered toge
 ## How does KNN work ?
 ## How do we choose the factor K ?
 ## When to use KNN ?
+## What is Keras Dataset and keras MNIST dataset?
 
 Well,I am upto resolve your queries rightaway!Come,on Let's do it 👍
 
@@ -49,6 +50,16 @@ The Euclidean distance formula is used to find the distance between two points o
 KNN can be used for small dataset because -> Computation of Euclidean distance is slow for large data set with a lot of variables.
 
 It's Slow trainee -> As it doesn't actually learn from the train data set.Instead,it uses for training data itself for the purpose of classification of unknown data.
+
+
+## Keras dataset and keras MNIST dataset ?
+
+-> keras datasets module provide a few toy datasets (already-vectorized, in Numpy format) that can be used for debugging a model or creating simple code examples. If you are looking for larger & more useful ready-to-use datasets, take a look at TensorFlow Datasets also.
+
+The black and white images from NIST were normalized to fit into a 28x28 pixel bounding box and anti-aliased, which introduced grayscale levels. The MNIST database contains 60,000 training images and 10,000 testing images.
+The MNIST database (Modified National Institute of Standards and Technology database) is a large database of handwritten digits that is commonly used for training various image processing systems. The database is also widely used for training and testing in the field of machine learning.It was created by "re-mixing" the samples from NIST's original datasets.
+
+The MNIST database contains 60,000 training images and 10,000 testing images.Half of the training set and half of the test set were taken from NIST's training dataset, while the other half of the training set and the other half of the test set were taken from NIST's testing dataset.
 
 # Project Description ->
 
