@@ -137,4 +137,12 @@ The list of classes in this model are ['airplane', 'automobile', 'bird', 'cat', 
 Upon instantiation, the models will be built according to the image data format set in your Keras configuration file at ~/.keras/keras.json. For instance, if you have set image_data_format=channels_last, then any model loaded from this repository will get built according to the TensorFlow data format convention, "Height-Width-Depth".
  
 To know more about the api references and predefined model visit -> https://keras.io/api/applications/vgg/#vgg19-function
+
+## Image to Pencil Sketch with Python
+
+We will read the image in RBG format and then convert it to a grayscale image. This will turn an image into a classic black and white photo. Then the next thing to do is invert the grayscale image also called negative image, this will be our inverted grayscale image. Inversion can be used to enhance details. Then we can finally create the pencil sketch by mixing the grayscale image with the inverted blurry image. This can be done by dividing the grayscale image by the inverted blurry image. Since images are just arrays, we can easily do this programmatically using the divide function from the cv2 library in Python.
+
+The image I have used in this project is this https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/09/02/11/mother-teresa-3.jpg?width=1200
+
+Basically, it's absolutely beginner-friendly project that can be made using OpenCV,Python and Matplotlib library for visualizations of the image transformation.
  
